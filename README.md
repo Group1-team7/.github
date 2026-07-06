@@ -47,9 +47,3 @@ org_readme_content = """<div align="center">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c1a22&height=100&section=footer" width="100%"/>
 </div>
-"""
-
-with open("ORG_README.md", "w", encoding="utf-8") as f:
-    f.write(org_readme_content)
-
-print("File generated successfully.")
