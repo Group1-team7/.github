@@ -1,4 +1,4 @@
-org_readme_content = """<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a365d&height=200&section=header&text=Group%201%20—%20Team%207&fontSize=50&fontColor=e2e8f0" width="100%"/>
 </div>
 
