@@ -38,9 +38,9 @@
 ### Capstone Progress
 - [x] Kickoff & Team Contract Submitted
 - [x] Initial Repository Structure & CI/CD Setup
-- [ ] Project Proposal Approved
-- [ ] Baseline Evaluation & Data Acquisition
-- [ ] Full System Integration & Live Deployment
+- [x] Project Proposal Approved
+- [x] Baseline Evaluation & Data Acquisition
+- [x] Full System Integration & Live Deployment
 
 <br>
 
